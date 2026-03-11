@@ -103,13 +103,13 @@ Screenshot your successful workflow run showing the secret message. Submit via C
 
 ---
 
-## Next Challenge
+## Next Challenge - Python
 Write a short Python program that uses the `TREASURE_KEY` secret to access the secret message (instead
 of having the `fetch-treasure.yml` workflow do all the work.) 
 
-You should be able to run this python command locally to see the message.
+You should be able to run this python command locally to see the message. Submit a screenshot to Canvas validating that this worked.
 
-You should also create a workflow file so that the code can access the secret message in GitHub and successfully read the message.
+You should also create a workflow file so that the code can access the secret message in GitHub and successfully read the message. Again, submit another screenshot to Canvas validating that this worked.
 
 Reminder, the secret message is located at:
 
